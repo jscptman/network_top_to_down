@@ -1,0 +1,9 @@
+[package]
+authors.workspace = true
+edition.workspace = true
+name = "chapter_2"
+publish.workspace = true
+repository = "https://github.com/jscptman/network_top_to_down/chapter_2"
+version = "0.1.0"
+
+[dependencies]

@@ -1,0 +1,9 @@
+[workspace]
+members = ["crates/*"]
+resolver = "2"
+
+[workspace.package]
+authors = ["Sword Coming <impish-clang-swell@duck.com>"]
+edition = "2021"
+publish = false
+repository = "https://github.com/jscptman/network_top_to_down"
