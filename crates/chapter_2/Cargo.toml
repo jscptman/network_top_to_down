@@ -6,4 +6,8 @@ publish.workspace = true
 repository = "https://github.com/jscptman/network_top_to_down/chapter_2"
 version = "0.1.0"
 
+[[bin]]
+name = "2_1"
+path = "src/bin/2.1.rs"
+
 [dependencies]
