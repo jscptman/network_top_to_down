@@ -9,5 +9,4 @@ publish = false
 repository = "https://github.com/jscptman/network_top_to_down"
 
 [workspace.dependencies]
-serde = { version = "1.0.217", features = ["default"] }
-tokio = { version = "1.43.0", features = ["default"] }
+tokio = "1.43.0"
